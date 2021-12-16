@@ -16,3 +16,7 @@ São eles:
 => I	 ISP	Princípio da Segregação da Interface -	Muitas interfaces específicas são melhores do que uma interface única.
 
 => D	 DIP	Princípio da inversão da dependência -	Dependa de uma abstração e não de uma implementação.
+
+# Curso SOLID com Java: Princípios da programação orientada a objetos da Alura
+
+Projeto contaém o resudos da atividades práticas do Curso Online da Alura: https://www.alura.com.br/curso-online-solid-orientacao-objetos-java
