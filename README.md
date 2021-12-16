@@ -19,4 +19,4 @@ São eles:
 
 # Curso SOLID com Java: Princípios da programação orientada a objetos da Alura
 
-Projeto contém o resumo das atividades práticas do Curso Online da Alura: https://www.alura.com.br/curso-online-solid-orientacao-objetos-java
+Projeto contém o resumo das atividades práticas do Curso Online da Alura: [SOLID com Java: Orientação a Objetos com Java](https://cursos.alura.com.br/course/orientacao-a-objetos-avancada-e-principios-solid)
